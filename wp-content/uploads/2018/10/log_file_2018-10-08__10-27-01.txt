@@ -1,0 +1,66 @@
+
+---Downloaded files---
+The import files for: Readable Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8060/blog-numnu
+Data file = E:\XAMPP\htdocs\blog-numnu/wp-content/uploads/2018/10/demo-content-import-file_2018-10-08__10-27-01.xml
+Widget file = E:\XAMPP\htdocs\blog-numnu/wp-content/uploads/2018/10/demo-widgets-import-file_2018-10-08__10-27-01.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Categories - No Title - Imported
+Recent Comments - No Title - Widget already exists
+Text - Facebook - Imported
+Tag Cloud - Tags - Imported
+pptwj - Popular / Recent - Site does not support widget
+Text - Twitter - Imported
+Meta - No Title - Widget already exists
+
+Author Sidebar : 
+
+ProteusThemes: Author Widget - No Title - Imported
+
+Regular Page Sidebar : 
+
+Categories - No Title - Imported
+Recent Comments - No Title - Imported
+Text - Facebook - Imported
+Tag Cloud - Tags - Imported
+Text - Twitter - Imported
+
+Footer : 
+
+Text - No Title - Imported
+Navigation Menu - Navigation - Imported
+Tag Cloud - Tags - Imported
+Text - Contact Us - Imported
+
+
+
+---pt-ocdi/after_import---
+After import setup ended!

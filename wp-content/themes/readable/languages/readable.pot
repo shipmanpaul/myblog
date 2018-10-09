@@ -1,0 +1,620 @@
+# Copyright (C) 2018 ProteusThemes 
+# This file is distributed under the GPL 2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Readable 2.2.0\n"
+"Report-Msgid-Bugs-To: http://support.proteusthemes.com/\n"
+"POT-Creation-Date: 2015-01-15 13:59:41+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: 404.php:15
+msgid "0"
+msgstr ""
+
+#: 404.php:15
+msgid "4"
+msgstr ""
+
+#: 404.php:16
+msgid "Error. Looks Like Something Went Wrong!"
+msgstr ""
+
+#: 404.php:19
+msgid "The page you were looking for is not here."
+msgstr ""
+
+#: comments.php:10
+msgid "Comments"
+msgstr ""
+
+#: comments.php:40
+msgid "%s Older Comments"
+msgstr ""
+
+#: comments.php:43
+msgid "Newer Comments %s"
+msgstr ""
+
+#: comments.php:54
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:70
+msgid "Send now"
+msgstr ""
+
+#: comments.php:74
+msgid "Message"
+msgstr ""
+
+#: comments.php:74
+msgid "Your Comment goes here."
+msgstr ""
+
+#: comments.php:76
+msgid "Name"
+msgstr ""
+
+#: comments.php:77
+msgid "Email"
+msgstr ""
+
+#: comments.php:78
+msgid "Website"
+msgstr ""
+
+#: comments.php:84
+msgid "Comments for this post are closed."
+msgstr ""
+
+#: comments.php:91
+msgid "Comments are disabled for this post"
+msgstr ""
+
+#: comments.php:99
+msgid "Comments not shown for password protected posts"
+msgstr ""
+
+#: header.php:27
+msgid "Exit the search mode"
+msgstr ""
+
+#: header.php:32
+msgid "Begin typing for search"
+msgstr ""
+
+#: header.php:33
+msgid "Press enter to see results or esc to cancel."
+msgstr ""
+
+#: header.php:66
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/custom-comments.php:34
+msgid "Edit"
+msgstr ""
+
+#: inc/custom-comments.php:38
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/filters.php:116
+msgid "After import setup ended!"
+msgstr ""
+
+#: inc/filters.php:127
+msgid ""
+"Please try to manually import the demo data. Here are instructions on how "
+"to do that: %sDocumentation: Demo Content%s"
+msgstr ""
+
+#: inc/helpers.php:57
+msgid "Page %s"
+msgstr ""
+
+#: inc/helpers.php:315
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-customizer.php:67
+msgid "[PT] Theme Options"
+msgstr ""
+
+#: inc/theme-customizer.php:68
+msgid "All ConsultPress theme specific settings."
+msgstr ""
+
+#: inc/theme-customizer.php:339
+msgid "Show ACF admin panel?"
+msgstr ""
+
+#: inc/theme-customizer.php:340
+msgid ""
+"If you want to use ACF and need the ACF admin panel set this to Yes. Do not "
+"change if you do not know what you are doing."
+msgstr ""
+
+#: inc/theme-customizer.php:343
+msgid "No"
+msgstr ""
+
+#: inc/theme-customizer.php:344
+msgid "Yes"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:15
+msgid "ProteusThemes: Latest Posts"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:17
+msgid "Displays one or more latest posts."
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:97
+msgid " in %s"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:111
+#: inc/widgets/widget-title-with-link.php:62
+msgid "Read more"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:176
+msgid "Select layout:"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:190
+msgid "Post order number:"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:195
+msgid "Posts from (category):"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:197
+msgid "All categories"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:206
+msgid "Hide author (avatar and name)"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:211
+msgid "Hide category"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:216
+msgid "Hide image"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:221
+msgid "Hide date"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:226
+msgid "Hide content"
+msgstr ""
+
+#: inc/widgets/widget-title-with-link.php:11
+msgid "Title with Link"
+msgstr ""
+
+#: inc/widgets/widget-title-with-link.php:13
+msgid "Title with Link widget for Page Builder."
+msgstr ""
+
+#: inc/widgets/widget-title-with-link.php:68
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widget-title-with-link.php:72
+msgid "Link text"
+msgstr ""
+
+#: inc/widgets/widget-title-with-link.php:76
+msgid "Link URL"
+msgstr ""
+
+#: inc/widgets/widget-title-with-link.php:81
+msgid "Open Link in New Tab"
+msgstr ""
+
+#: index.php:52 loop-excerpt.php:50 search.php:43
+msgid "Continue reading"
+msgstr ""
+
+#: index.php:68 page-about-us.php:130 page.php:54 search.php:60 single.php:117
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: single.php:48
+msgid "Pages:"
+msgstr ""
+
+#: single.php:64
+msgid "Written By"
+msgstr ""
+
+#: single.php:82
+msgid "Tags"
+msgstr ""
+
+#: single.php:102
+msgid "Related Stories"
+msgstr ""
+
+#: titlearea.php:18
+msgid "Category Archive For"
+msgstr ""
+
+#: titlearea.php:21
+msgid "Tag Archive For"
+msgstr ""
+
+#: titlearea.php:24
+msgid "Search Results For"
+msgstr ""
+
+#: titlearea.php:27
+msgid "Entries Published On"
+msgstr ""
+
+#: titlearea.php:30
+msgid "Entries Written By"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Readable"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://demo.proteusthemes.com/readable"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Readable is a clean theme for blog with focus on best readability possible. "
+"It can be used as a personal blog, magazine, journal or any other website, "
+"where readability is important."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ProteusThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.proteusthemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "About us page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Default Template (for Page Builder)"
+msgstr ""
+
+#: 404.php:20
+msgctxt "%s is for the link to home page, wrap the word Home in two %s"
+msgid "Go %sHome%s or use search."
+msgstr ""
+
+#: entry-meta.php:43
+msgctxt ""
+"meta data above the post, %1$s represents the author, %2$s the "
+"category/categories which the post has been published to. For example: "
+"[John Doe] in [News, Finance]"
+msgid "%1$s in %2$s"
+msgstr ""
+
+#: entry-meta.php:45 inc/widgets/widget-latest-posts.php:98
+msgctxt "Separator for the list of categories"
+msgid ", "
+msgstr ""
+
+#: inc/custom-comments.php:28
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/filters.php:56
+msgctxt "custom read more text after the post excerpts"
+msgid " ..."
+msgstr ""
+
+#: inc/register-sidebars.php:12
+msgctxt "backend"
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/register-sidebars.php:14
+msgctxt "backend"
+msgid "Sidebar on the blog layout."
+msgstr ""
+
+#: inc/register-sidebars.php:27
+msgctxt "backend"
+msgid "Author Sidebar"
+msgstr ""
+
+#: inc/register-sidebars.php:29
+msgctxt "backend"
+msgid "Sidebar for the Author Widget, shown just above the Blog Sidebar."
+msgstr ""
+
+#: inc/register-sidebars.php:40
+msgctxt "backend"
+msgid "Regular Page Sidebar"
+msgstr ""
+
+#: inc/register-sidebars.php:42
+msgctxt "backend"
+msgid "Sidebar on the regular page."
+msgstr ""
+
+#: inc/register-sidebars.php:55
+msgctxt "backend"
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/register-sidebars.php:57
+msgctxt "backend"
+msgid "Sidebar for the shop page."
+msgstr ""
+
+#: inc/register-sidebars.php:70
+msgctxt "backend"
+msgid "Footer"
+msgstr ""
+
+#: inc/register-sidebars.php:72
+msgctxt "backend"
+msgid "Footer area accepts 4 widgets."
+msgstr ""
+
+#: inc/theme-customizer.php:76
+msgctxt "backend"
+msgid "Appearance"
+msgstr ""
+
+#: inc/theme-customizer.php:77
+msgctxt "backend"
+msgid "Appearance for the Readable theme"
+msgstr ""
+
+#: inc/theme-customizer.php:82
+msgctxt "backend"
+msgid "Colors"
+msgstr ""
+
+#: inc/theme-customizer.php:83
+msgctxt "backend"
+msgid "Settings for the theme colors"
+msgstr ""
+
+#: inc/theme-customizer.php:88
+msgctxt "backend"
+msgid "Layout"
+msgstr ""
+
+#: inc/theme-customizer.php:89
+msgctxt "backend"
+msgid "Settings for the layout of blog"
+msgstr ""
+
+#: inc/theme-customizer.php:94
+msgctxt "backend"
+msgid "Social Icons"
+msgstr ""
+
+#: inc/theme-customizer.php:95
+msgctxt "backend"
+msgid ""
+"Insert your link (the whole URL with %1$shttp://%2$s) for specific icon to "
+"appear"
+msgstr ""
+
+#: inc/theme-customizer.php:100
+msgctxt "backend"
+msgid "Footer &amp; Other"
+msgstr ""
+
+#: inc/theme-customizer.php:101
+msgctxt "backend"
+msgid "Other settings"
+msgstr ""
+
+#: inc/theme-customizer.php:117
+msgctxt "backend"
+msgid "Logo image (recommended dimensions: 200 x 90)"
+msgstr ""
+
+#: inc/theme-customizer.php:126
+msgctxt "backend"
+msgid "Retina logo image"
+msgstr ""
+
+#: inc/theme-customizer.php:127
+msgctxt "backend"
+msgid "2x logo size, for screens with high DPI."
+msgstr ""
+
+#: inc/theme-customizer.php:136
+msgctxt "backend"
+msgid "Favicon image (16 x 16 px), format .ico"
+msgstr ""
+
+#: inc/theme-customizer.php:147
+msgctxt "backend"
+msgid "Main blog view sidebar position"
+msgstr ""
+
+#: inc/theme-customizer.php:152
+msgctxt "backend"
+msgid "Right"
+msgstr ""
+
+#: inc/theme-customizer.php:153
+msgctxt "backend"
+msgid "Left"
+msgstr ""
+
+#: inc/theme-customizer.php:154
+msgctxt "backend"
+msgid "No sidebar"
+msgstr ""
+
+#: inc/theme-customizer.php:162
+msgctxt "backend"
+msgid "In the list of posts show:"
+msgstr ""
+
+#: inc/theme-customizer.php:167
+msgctxt "backend"
+msgid "Excerpt with CONTINUE READING link"
+msgstr ""
+
+#: inc/theme-customizer.php:168
+msgctxt "backend"
+msgid "Full content"
+msgstr ""
+
+#: inc/theme-customizer.php:176
+msgctxt "backend"
+msgid "Select style of archive posts:"
+msgstr ""
+
+#: inc/theme-customizer.php:181
+msgctxt "backend"
+msgid "Archive posts without images"
+msgstr ""
+
+#: inc/theme-customizer.php:182
+msgctxt "backend"
+msgid "Archive posts with images"
+msgstr ""
+
+#: inc/theme-customizer.php:193
+msgctxt "backend"
+msgid "Primary theme color"
+msgstr ""
+
+#: inc/theme-customizer.php:203
+msgctxt "backend"
+msgid "Text color"
+msgstr ""
+
+#: inc/theme-customizer.php:213
+msgctxt "backend"
+msgid "Links color"
+msgstr ""
+
+#: inc/theme-customizer.php:223
+msgctxt "backend"
+msgid "Headings dark color"
+msgstr ""
+
+#: inc/theme-customizer.php:233
+msgctxt "backend"
+msgid "Headings light color"
+msgstr ""
+
+#: inc/theme-customizer.php:244
+msgctxt "backend"
+msgid "Navbar links color"
+msgstr ""
+
+#: inc/theme-customizer.php:254
+msgctxt "backend"
+msgid "Navbar dropdown links color"
+msgstr ""
+
+#: inc/theme-customizer.php:264
+msgctxt "backend"
+msgid "Navbar background"
+msgstr ""
+
+#: inc/theme-customizer.php:274
+msgctxt "backend"
+msgid "Footer background"
+msgstr ""
+
+#: inc/theme-customizer.php:286
+msgctxt "backend"
+msgid "Open the icons in the new window?"
+msgstr ""
+
+#: inc/theme-customizer.php:292
+msgctxt "backend"
+msgid "Yes"
+msgstr ""
+
+#: inc/theme-customizer.php:293
+msgctxt "backend"
+msgid "No"
+msgstr ""
+
+#: inc/theme-customizer.php:315
+msgctxt "backend"
+msgid "Footer left HTML"
+msgstr ""
+
+#: inc/theme-customizer.php:325
+msgctxt "backend"
+msgid "Footer right HTML"
+msgstr ""
+
+#: inc/theme-customizer.php:333
+msgctxt "backend"
+msgid "Custom JavaScript (footer)"
+msgstr ""
+
+#: inc/theme-customizer.php:334
+msgctxt "backend"
+msgid "You have to include the &lt;script&gt;&lt;/script&gt; tags as well."
+msgstr ""
+
+#: inc/theme-customizer.php:353
+msgctxt "backend"
+msgid "Main navbar position"
+msgstr ""
+
+#: inc/theme-customizer.php:358
+msgctxt "backend"
+msgid "Sticky"
+msgstr ""
+
+#: inc/theme-customizer.php:359
+msgctxt "backend"
+msgid "Static"
+msgstr ""
+
+#: inc/widget-author.php:18
+msgctxt "backend"
+msgid "ProteusThemes: Author Widget"
+msgstr ""
+
+#: inc/widget-author.php:92
+msgctxt "backend"
+msgid "Display author: "
+msgstr ""

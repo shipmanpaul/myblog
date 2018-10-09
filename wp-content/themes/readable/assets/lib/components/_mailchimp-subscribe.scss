@@ -1,0 +1,31 @@
+/* MailChimp Subscribe */
+.mailchimp-subscribe {
+	&__email-input {
+		font-family: $secondary-font;
+		font-size: 16px;
+		background-color: #f8f9fa;
+		border-color: #e0e0e0;
+		height: 60px;
+		padding: 18px 20px;
+		margin-bottom: 10px;
+
+		&:focus {
+			background-color: #ffffff;
+		}
+	}
+
+	&__submit {
+		font-size: 15px;
+		border: 0;
+		width: 100%;
+		padding: 19px 30px;
+		box-shadow: none;
+
+		&.btn-primary {
+			&:focus,
+			&:hover {
+				border: 0;
+			}
+		}
+	}
+}

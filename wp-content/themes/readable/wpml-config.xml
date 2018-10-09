@@ -1,0 +1,10 @@
+<wpml-config>
+	<admin-texts>
+		<key name="theme_mods_readable">
+			<key name="logo_img" />
+			<key name="favicon" />
+			<key name="footer_left" />
+			<key name="footer_right" />
+		</key>
+	</admin-texts>
+</wpml-config>

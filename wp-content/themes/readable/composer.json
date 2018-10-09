@@ -1,0 +1,16 @@
+{
+    "name":         "proteusthemes/readable",
+    "description":  "WordPress theme by ProteusThemes.",
+    "license":      "GPL-2.0+",
+    "type":         "project",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@bitbucket.org:proteusnet/theme-registration-and-updates.git"
+        }
+    ],
+    "require": {
+        "tgmpa/tgm-plugin-activation":                  "~2.6.1",
+        "proteusthemes/theme-registration-and-updates": "^2.0.0"
+    }
+}

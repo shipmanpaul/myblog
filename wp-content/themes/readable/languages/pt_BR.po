@@ -1,0 +1,753 @@
+# Copyright (C) 2014 ProteusThemes
+# This file is distributed under the GPL 2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Readable WP Theme 1.0.0\n"
+"Report-Msgid-Bugs-To: http://support.proteusthemes.com/\n"
+"POT-Creation-Date: 2015-01-15 13:59:41+00:00\n"
+"PO-Revision-Date: 2014-09-29 09:25+0100\n"
+"Last-Translator: Primoz Cigler <primoz@proteusnet.com>\n"
+"Language-Team: Mahmoud Ali <muddibr@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:15
+msgid "0"
+msgstr ""
+
+#: 404.php:15
+msgid "4"
+msgstr ""
+
+#: 404.php:16
+msgid "Error. Looks Like Something Went Wrong!"
+msgstr "Erro. Parece que algo deu errado!"
+
+#: 404.php:19
+msgid "The page you were looking for is not here."
+msgstr "A página que você estava procurando não está aqui."
+
+#: comments.php:10
+msgid "Comments"
+msgstr "Comentários"
+
+#: comments.php:40
+#, fuzzy
+msgid "%s Older Comments"
+msgstr "&larr; Comentários antigos"
+
+#: comments.php:43
+#, fuzzy
+msgid "Newer Comments %s"
+msgstr "Comentários novos &rarr;"
+
+#: comments.php:54
+msgid "Leave a Comment"
+msgstr "Deixar um comentário"
+
+#: comments.php:70
+msgid "Send now"
+msgstr "Enviar agora"
+
+#: comments.php:74
+msgid "Message"
+msgstr "Mensagem"
+
+#: comments.php:74
+msgid "Your Comment goes here."
+msgstr "Seu comentário aqui."
+
+#: comments.php:76
+msgid "Name"
+msgstr "Nome"
+
+#: comments.php:77
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:78
+msgid "Website"
+msgstr "Endereço do site"
+
+#: comments.php:84
+#, fuzzy
+msgid "Comments for this post are closed."
+msgstr "Comentários estão desabilitados para este post"
+
+#: comments.php:91
+msgid "Comments are disabled for this post"
+msgstr "Comentários estão desabilitados para este post"
+
+#: comments.php:99
+msgid "Comments not shown for password protected posts"
+msgstr "Comentários não mostrados para posts protegidos por senha"
+
+#: header.php:27
+msgid "Exit the search mode"
+msgstr "Sair do modo de busca"
+
+#: header.php:32
+msgid "Begin typing for search"
+msgstr "Digite para buscar"
+
+#: header.php:33
+msgid "Press enter to see results or esc to cancel."
+msgstr "Pressione enter para ver os resultados ou esc para cancelar."
+
+#: header.php:66
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/custom-comments.php:34
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/custom-comments.php:38
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário está aguardando aprovação."
+
+#: inc/filters.php:116
+msgid "After import setup ended!"
+msgstr ""
+
+#: inc/filters.php:127
+msgid ""
+"Please try to manually import the demo data. Here are instructions on how to "
+"do that: %sDocumentation: Demo Content%s"
+msgstr ""
+
+#: inc/helpers.php:57
+msgid "Page %s"
+msgstr "Página %s"
+
+#: inc/helpers.php:315
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s Comentário"
+msgstr[1] "%s Comentários"
+
+#: inc/theme-customizer.php:67
+msgid "[PT] Theme Options"
+msgstr ""
+
+#: inc/theme-customizer.php:68
+msgid "All ConsultPress theme specific settings."
+msgstr ""
+
+#: inc/theme-customizer.php:339
+msgid "Show ACF admin panel?"
+msgstr ""
+
+#: inc/theme-customizer.php:340
+msgid ""
+"If you want to use ACF and need the ACF admin panel set this to Yes. Do not "
+"change if you do not know what you are doing."
+msgstr ""
+
+#: inc/theme-customizer.php:343
+#, fuzzy
+msgid "No"
+msgstr "Não"
+
+#: inc/theme-customizer.php:344
+#, fuzzy
+msgid "Yes"
+msgstr "Sim"
+
+#: inc/widgets/widget-latest-posts.php:15
+#, fuzzy
+msgid "ProteusThemes: Latest Posts"
+msgstr "ProteusThemes: Widget do Autor"
+
+#: inc/widgets/widget-latest-posts.php:17
+msgid "Displays one or more latest posts."
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:97
+#, fuzzy
+msgid " in %s"
+msgstr "%1$s em %2$s"
+
+#: inc/widgets/widget-latest-posts.php:111
+#: inc/widgets/widget-title-with-link.php:62
+msgid "Read more"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:176
+msgid "Select layout:"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:190
+msgid "Post order number:"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:195
+msgid "Posts from (category):"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:197
+#, fuzzy
+msgid "All categories"
+msgstr "Histórias relacionadas"
+
+#: inc/widgets/widget-latest-posts.php:206
+msgid "Hide author (avatar and name)"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:211
+msgid "Hide category"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:216
+msgid "Hide image"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:221
+msgid "Hide date"
+msgstr ""
+
+#: inc/widgets/widget-latest-posts.php:226
+#, fuzzy
+msgid "Hide content"
+msgstr "Conteúdo completo"
+
+#: inc/widgets/widget-title-with-link.php:11
+msgid "Title with Link"
+msgstr ""
+
+#: inc/widgets/widget-title-with-link.php:13
+msgid "Title with Link widget for Page Builder."
+msgstr ""
+
+#: inc/widgets/widget-title-with-link.php:68
+#, fuzzy
+msgid "Title"
+msgstr "Subtítulo"
+
+#: inc/widgets/widget-title-with-link.php:72
+msgid "Link text"
+msgstr ""
+
+#: inc/widgets/widget-title-with-link.php:76
+msgid "Link URL"
+msgstr ""
+
+#: inc/widgets/widget-title-with-link.php:81
+msgid "Open Link in New Tab"
+msgstr ""
+
+#: index.php:52 loop-excerpt.php:50 search.php:43
+msgid "Continue reading"
+msgstr "Continuar lendo"
+
+#: index.php:68 page-about-us.php:130 page.php:54 search.php:60 single.php:117
+msgid "Sorry, no posts matched your criteria."
+msgstr "Desculpe, nenhum post foi encontrado para esta busca"
+
+#: single.php:48
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: single.php:64
+msgid "Written By"
+msgstr "Escrito por"
+
+#: single.php:82
+msgid "Tags"
+msgstr "Tags"
+
+#: single.php:102
+msgid "Related Stories"
+msgstr "Histórias relacionadas"
+
+#: titlearea.php:18
+msgid "Category Archive For"
+msgstr "Arquivo de categorias para"
+
+#: titlearea.php:21
+msgid "Tag Archive For"
+msgstr "Arquivo de tags para"
+
+#: titlearea.php:24
+msgid "Search Results For"
+msgstr "Resultados da busca para"
+
+#: titlearea.php:27
+msgid "Entries Published On"
+msgstr "Registros publicados em"
+
+#: titlearea.php:30
+msgid "Entries Written By"
+msgstr "Registros escritos por"
+
+#. Theme Name of the plugin/theme
+#, fuzzy
+msgid "Readable"
+msgstr "Opções do Readable"
+
+#. Theme URI of the plugin/theme
+#, fuzzy
+msgid "https://demo.proteusthemes.com/readable"
+msgstr "http://readable.demo.proteusthemes.com/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"Readable is a clean theme for blog with focus on best readability possible. "
+"It can be used as a personal blog, magazine, journal or any other website, "
+"where readability is important."
+msgstr ""
+"Readable é um template HTML premium limpo para blogs com impacto na melhor "
+"legibilidade possível. Ele pode ser usado como um blog pessoal, revista, "
+"jornal, e é muito fácil de configurar e usar. Nós oferecemos suporte no: "
+"http://support.proteusthemes.com"
+
+#. Author of the plugin/theme
+msgid "ProteusThemes"
+msgstr "ProteusThemes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.proteusthemes.com/"
+msgstr "http://www.proteusthemes.com/"
+
+#. Template Name of the plugin/theme
+msgid "About us page"
+msgstr "Página sobre nós"
+
+#. Template Name of the plugin/theme
+msgid "Default Template (for Page Builder)"
+msgstr ""
+
+#: 404.php:20
+msgctxt "%s is for the link to home page, wrap the word Home in two %s"
+msgid "Go %sHome%s or use search."
+msgstr "Vá para %sHome%s ou use a busca."
+
+#: entry-meta.php:43
+msgctxt ""
+"meta data above the post, %1$s represents the author, %2$s the category/"
+"categories which the post has been published to. For example: [John Doe] in "
+"[News, Finance]"
+msgid "%1$s in %2$s"
+msgstr "%1$s em %2$s"
+
+#: entry-meta.php:45 inc/widgets/widget-latest-posts.php:98
+msgctxt "Separator for the list of categories"
+msgid ", "
+msgstr ","
+
+#: inc/custom-comments.php:28
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s em %2$s"
+
+#: inc/filters.php:56
+msgctxt "custom read more text after the post excerpts"
+msgid " ..."
+msgstr "..."
+
+#: inc/register-sidebars.php:12
+msgctxt "backend"
+msgid "Blog Sidebar"
+msgstr "Barra lateral do Blog"
+
+#: inc/register-sidebars.php:14
+msgctxt "backend"
+msgid "Sidebar on the blog layout."
+msgstr "Barra lateral no layout do blog"
+
+#: inc/register-sidebars.php:27
+msgctxt "backend"
+msgid "Author Sidebar"
+msgstr "Barra lateral do autor"
+
+#: inc/register-sidebars.php:29
+msgctxt "backend"
+msgid "Sidebar for the Author Widget, shown just above the Blog Sidebar."
+msgstr ""
+"Barra lateral para o Widget do Autor, mostrado logo acima da barra lateral "
+"do Blog"
+
+#: inc/register-sidebars.php:40
+msgctxt "backend"
+msgid "Regular Page Sidebar"
+msgstr "Barra lateral da página comum"
+
+#: inc/register-sidebars.php:42
+msgctxt "backend"
+msgid "Sidebar on the regular page."
+msgstr "Barra lateral na página comum"
+
+#: inc/register-sidebars.php:55
+msgctxt "backend"
+msgid "Shop Sidebar"
+msgstr "Barra lateral da loja"
+
+#: inc/register-sidebars.php:57
+msgctxt "backend"
+msgid "Sidebar for the shop page."
+msgstr "Barra lateral para a página da loja"
+
+#: inc/register-sidebars.php:70
+msgctxt "backend"
+msgid "Footer"
+msgstr "Rodapé"
+
+#: inc/register-sidebars.php:72
+msgctxt "backend"
+msgid "Footer area accepts 4 widgets."
+msgstr "A área do rodapé aceita 4 widgets."
+
+#: inc/theme-customizer.php:76
+msgctxt "backend"
+msgid "Appearance"
+msgstr "Aparência"
+
+#: inc/theme-customizer.php:77
+msgctxt "backend"
+msgid "Appearance for the Readable theme"
+msgstr "Aparência para o tema Readable"
+
+#: inc/theme-customizer.php:82
+msgctxt "backend"
+msgid "Colors"
+msgstr ""
+
+#: inc/theme-customizer.php:83
+#, fuzzy
+msgctxt "backend"
+msgid "Settings for the theme colors"
+msgstr "Ajustes para o layout do blog"
+
+#: inc/theme-customizer.php:88
+msgctxt "backend"
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/theme-customizer.php:89
+msgctxt "backend"
+msgid "Settings for the layout of blog"
+msgstr "Ajustes para o layout do blog"
+
+#: inc/theme-customizer.php:94
+msgctxt "backend"
+msgid "Social Icons"
+msgstr "Ícones sociais"
+
+#: inc/theme-customizer.php:95
+#, fuzzy
+msgctxt "backend"
+msgid ""
+"Insert your link (the whole URL with %1$shttp://%2$s) for specific icon to "
+"appear"
+msgstr ""
+"Insira seu link (a URL inteira com <code>http://</code>) para um ícone "
+"específico aparecer"
+
+#: inc/theme-customizer.php:100
+msgctxt "backend"
+msgid "Footer &amp; Other"
+msgstr "Rodapé &amp; Outro"
+
+#: inc/theme-customizer.php:101
+msgctxt "backend"
+msgid "Other settings"
+msgstr "Outros ajustes"
+
+#: inc/theme-customizer.php:117
+msgctxt "backend"
+msgid "Logo image (recommended dimensions: 200 x 90)"
+msgstr "Imagem da logo (dimensões recomendadas: 200 x 90)"
+
+#: inc/theme-customizer.php:126
+msgctxt "backend"
+msgid "Retina logo image"
+msgstr ""
+
+#: inc/theme-customizer.php:127
+msgctxt "backend"
+msgid "2x logo size, for screens with high DPI."
+msgstr ""
+
+#: inc/theme-customizer.php:136
+msgctxt "backend"
+msgid "Favicon image (16 x 16 px), format .ico"
+msgstr "Imagem Favicon (16 x 16 px), formato .ico"
+
+#: inc/theme-customizer.php:147
+msgctxt "backend"
+msgid "Main blog view sidebar position"
+msgstr "Posição da barra lateral no blog principal"
+
+#: inc/theme-customizer.php:152
+msgctxt "backend"
+msgid "Right"
+msgstr "Direita"
+
+#: inc/theme-customizer.php:153
+msgctxt "backend"
+msgid "Left"
+msgstr "Esquerda"
+
+#: inc/theme-customizer.php:154
+msgctxt "backend"
+msgid "No sidebar"
+msgstr "Sem barra lateral"
+
+#: inc/theme-customizer.php:162
+msgctxt "backend"
+msgid "In the list of posts show:"
+msgstr "Na lista dos posts exibir:"
+
+#: inc/theme-customizer.php:167
+msgctxt "backend"
+msgid "Excerpt with CONTINUE READING link"
+msgstr "Trecho com link para CONTINUAR LENDO"
+
+#: inc/theme-customizer.php:168
+msgctxt "backend"
+msgid "Full content"
+msgstr "Conteúdo completo"
+
+#: inc/theme-customizer.php:176
+msgctxt "backend"
+msgid "Select style of archive posts:"
+msgstr ""
+
+#: inc/theme-customizer.php:181
+msgctxt "backend"
+msgid "Archive posts without images"
+msgstr ""
+
+#: inc/theme-customizer.php:182
+msgctxt "backend"
+msgid "Archive posts with images"
+msgstr ""
+
+#: inc/theme-customizer.php:193
+msgctxt "backend"
+msgid "Primary theme color"
+msgstr "Cor do tema principal"
+
+#: inc/theme-customizer.php:203
+msgctxt "backend"
+msgid "Text color"
+msgstr "Cor do texto"
+
+#: inc/theme-customizer.php:213
+msgctxt "backend"
+msgid "Links color"
+msgstr "Cor dos links"
+
+#: inc/theme-customizer.php:223
+msgctxt "backend"
+msgid "Headings dark color"
+msgstr "Cor escura dos cabeçalhos"
+
+#: inc/theme-customizer.php:233
+msgctxt "backend"
+msgid "Headings light color"
+msgstr "Cor clara dos cabeçalhos"
+
+#: inc/theme-customizer.php:244
+msgctxt "backend"
+msgid "Navbar links color"
+msgstr "Cor dos links da barra de navegação"
+
+#: inc/theme-customizer.php:254
+msgctxt "backend"
+msgid "Navbar dropdown links color"
+msgstr "Cor dos links da seleção da barra de navegação"
+
+#: inc/theme-customizer.php:264
+msgctxt "backend"
+msgid "Navbar background"
+msgstr "Fundo da barra de navegação"
+
+#: inc/theme-customizer.php:274
+msgctxt "backend"
+msgid "Footer background"
+msgstr "Fundo do rodapé"
+
+#: inc/theme-customizer.php:286
+msgctxt "backend"
+msgid "Open the icons in the new window?"
+msgstr "Abrir os ícones na janela nova?"
+
+#: inc/theme-customizer.php:292
+msgctxt "backend"
+msgid "Yes"
+msgstr "Sim"
+
+#: inc/theme-customizer.php:293
+msgctxt "backend"
+msgid "No"
+msgstr "Não"
+
+#: inc/theme-customizer.php:315
+msgctxt "backend"
+msgid "Footer left HTML"
+msgstr "HTML do lado esquerdo do rodapé"
+
+#: inc/theme-customizer.php:325
+msgctxt "backend"
+msgid "Footer right HTML"
+msgstr "HTML do lado direito do rodapé"
+
+#: inc/theme-customizer.php:333
+msgctxt "backend"
+msgid "Custom JavaScript (footer)"
+msgstr ""
+
+#: inc/theme-customizer.php:334
+msgctxt "backend"
+msgid "You have to include the &lt;script&gt;&lt;/script&gt; tags as well."
+msgstr ""
+
+#: inc/theme-customizer.php:353
+msgctxt "backend"
+msgid "Main navbar position"
+msgstr ""
+
+#: inc/theme-customizer.php:358
+msgctxt "backend"
+msgid "Sticky"
+msgstr "Fixo"
+
+#: inc/theme-customizer.php:359
+msgctxt "backend"
+msgid "Static"
+msgstr "Estático"
+
+#: inc/widget-author.php:18
+msgctxt "backend"
+msgid "ProteusThemes: Author Widget"
+msgstr "ProteusThemes: Widget do Autor"
+
+#: inc/widget-author.php:92
+msgctxt "backend"
+msgid "Display author: "
+msgstr "Exibir autor:"
+
+#~ msgctxt "backend"
+#~ msgid "Readable Options"
+#~ msgstr "Opções do Readable"
+
+#~ msgctxt "backend"
+#~ msgid "Options specific to Readable theme"
+#~ msgstr "Opções específicas para o tema Readable"
+
+#~ msgctxt "backend"
+#~ msgid "Position of the sidebar"
+#~ msgstr "Posição da barra lateral"
+
+#~ msgctxt "backend"
+#~ msgid ""
+#~ "Position the sidebar for this particular page to the left, right or do "
+#~ "not display it at all."
+#~ msgstr "Posição"
+
+#~ msgctxt "backend"
+#~ msgid "Exlude Authors IDs"
+#~ msgstr "Excluir IDs dos Autores"
+
+#, fuzzy
+#~ msgctxt "backend"
+#~ msgid ""
+#~ "This only applies for the template %1$sAbout us page%2$s, list of the "
+#~ "author ID separated by a comma to be excluded on the About us page. "
+#~ "Example: %3$s5,11,23%4$s."
+#~ msgstr ""
+#~ "Isso só se aplica para o template <string>Página Sobre Nós</strong>, "
+#~ "lista do ID do autor separado por uma vírgula a ser excluída na página de "
+#~ "Sobre Nós. Exemplo: <code>5,11,23</code>."
+
+#~ msgctxt "backend"
+#~ msgid ""
+#~ "Position the sidebar for this particular post to the left, right or do "
+#~ "not display it at all."
+#~ msgstr ""
+#~ "Posicione a barra lateral para este post em particular à esquerda, à "
+#~ "direita ou simplesmente não a deixa visível."
+
+#~ msgctxt "backend"
+#~ msgid "Default (the same as blog layout)"
+#~ msgstr "Padrão (o mesmo do layout do blog)"
+
+#~ msgctxt "backend"
+#~ msgid "Slider Options"
+#~ msgstr "Opções do slider"
+
+#~ msgctxt "backend"
+#~ msgid "Smaller text above the title of the slide"
+#~ msgstr "Texto menor em cima do título do slide"
+
+#~ msgctxt "backend"
+#~ msgid "Subtitle of this team member (shown right below the name)."
+#~ msgstr "Subtítulo deste membro do time (mostrado logo abaixo do nome)."
+
+#~ msgctxt "backend"
+#~ msgid "Slider"
+#~ msgstr "Slider"
+
+#~ msgctxt "backend"
+#~ msgid "Slide"
+#~ msgstr "Slide"
+
+#~ msgctxt "backend"
+#~ msgid "Add New"
+#~ msgstr "Adicionar Novo"
+
+#~ msgctxt "backend"
+#~ msgid "Add New Slide"
+#~ msgstr "Adicionar Novo Slider"
+
+#~ msgctxt "backend"
+#~ msgid "Edit Slide"
+#~ msgstr "Editar Slider"
+
+#~ msgctxt "backend"
+#~ msgid "New Slide"
+#~ msgstr "Novo Slider"
+
+#~ msgctxt "backend"
+#~ msgid "All Slides"
+#~ msgstr "Todos Slides"
+
+#~ msgctxt "backend"
+#~ msgid "View Slide"
+#~ msgstr "Ver Slide"
+
+#~ msgctxt "backend"
+#~ msgid "Search Slides"
+#~ msgstr "Procurar Slides"
+
+#~ msgctxt "backend"
+#~ msgid "No slides found"
+#~ msgstr "Nenhum slide encontrado"
+
+#~ msgctxt "backend"
+#~ msgid "No slides found in Trash"
+#~ msgstr "Nenhum slide encontrado na Lixeira"
+
+#~ msgctxt "backend"
+#~ msgid "Front Page"
+#~ msgstr "Página frontal"
+
+#~ msgctxt "backend"
+#~ msgid "Settings for the front page display"
+#~ msgstr "Ajustes para a visualização da página frontal"
+
+#~ msgctxt "backend"
+#~ msgid "Slider interval (in miliseconds, 1s = 1000ms)"
+#~ msgstr "Intervalo do Slider (em milissegundos, 1s = 1000ms)"
+
+#~ msgid "Readable WP Theme"
+#~ msgstr "Tema Readable WP"
+
+#~ msgid "Invalid sidebar ID"
+#~ msgstr "ID da barra lateral inválido"

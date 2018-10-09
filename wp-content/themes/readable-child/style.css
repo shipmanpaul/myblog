@@ -1,0 +1,53 @@
+/*
+Theme Name: Readable
+Theme URI: https://demo.proteusthemes.com/readable
+Author: ProteusThemes
+Author URI: http://www.proteusthemes.com/
+Description: Readable is a clean theme for blog with focus on best readability possible. It can be used as a personal blog, magazine, journal or any other website, where readability is important.
+Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, grid-layout, custom-background, custom-colors, custom-menu, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, blog
+Version: 2.2.0
+License: GPL 2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: readable
+*/
+
+/*
+ALL THE STYLES ARE DEFINED IN ./assets/stylesheets/
+*/
+.textwidget img {
+    max-width: 134%;
+    height: auto;
+}
+body{
+  font-size: 14px !important;
+}
+*{
+	font-family: 'Poppins', sans-serif !important;
+}
+
+.footer .social-media a {
+  font-size: 20px;
+  margin-right: 5px;
+}
+.footer .social-media a:hover {
+  color: #E05050;
+}
+.footer .form-control:focus {
+  border-color: #ffffff;
+  box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.25);
+}
+.footer .extra-small {
+  opacity: 0.6;
+}
+.footer .btn-outline-light:hover .extra-small {
+  opacity: 1;
+}
+.footer .newsletter {
+  font-size: 20px;
+}
+.footer .subscribe .title {
+  font-size: 26px;
+}
+.footer .subscribe .sub-header {
+  font-size: 18px;
+}

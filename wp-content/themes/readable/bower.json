@@ -1,0 +1,24 @@
+{
+  "name": "readable",
+  "version": "0.0.0",
+  "authors": [
+    "Primoz Cigler <primoz.cigler@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-smart-vimeo-embed": "~1.1.1"
+  },
+  "devDependencies": {
+    "sass-bootstrap": "~3.0.2",
+    "requirejs": "~2.1.11",
+    "almond": "~0.2.9"
+  }
+}
